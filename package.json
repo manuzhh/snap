@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manuzhh/snap.git"
+    "url": "git+https://github.com/manuzhh/snap-.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/manuzhh/snap/issues"
+    "url": "https://github.com/manuzhh/snap-/issues"
   },
-  "homepage": "https://github.com/manuzhh/snap#readme",
+  "homepage": "https://github.com/manuzhh/snap-#readme",
   "dependencies": {
     "bcryptjs": "^2.3.0",
     "express": "^4.0.0",
